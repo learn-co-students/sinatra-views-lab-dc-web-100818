@@ -1,7 +1,7 @@
 # Sinatra Views Lab
 
 ## Objectives
-
+ 
 1. Respond to HTTP Requests with Sinatra Routes.
 2. Render ERB from a Sinatra Action.
 
